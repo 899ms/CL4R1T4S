@@ -1,4 +1,4 @@
-# Collected prompts and conditional templates
+# Collected prompts and templates
 
 # Model-specific instructions
 
